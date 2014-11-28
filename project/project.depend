@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1417202721 source:/home/denis/fyp/project/src/main.cpp
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
